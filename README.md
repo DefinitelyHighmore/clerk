@@ -1,4 +1,4 @@
-# clerk
+# clerk 🎟️
 A Ticketing System for collaboration between multiple players
 
 ## Download
@@ -16,7 +16,7 @@ function clerk:manager
 * Tickets you assign to yourself are available in the ``[Assigned Tickets]`` menu.
 * More options are available when you expand a ticket, including teleporting to the ticket's creation location, assining/unassigning a ticket to yourself, resolving a ticket and deleting a ticket.
 
-# Removing
+## Removing
 * After you are done with ticketing (and your project is complete), you can remove the datapack and run the following command to delete it's storage:
 
 ```mcfunction
