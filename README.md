@@ -20,5 +20,5 @@ function clerk:manager
 * After you are done with ticketing (and your project is complete), you can remove the datapack and run the following command to delete it's storage:
 
 ```mcfunction
-data removte storage clerk:internal root
+data remove storage clerk:internal root
 ```
